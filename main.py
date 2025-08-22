@@ -10,7 +10,7 @@ import json
 wiki_wiki = wikipediaapi.Wikipedia('en')
 
 # Replace 'YOUR_DISCORD_BOT_TOKEN' with your own bot token
-TOKEN = 'MTEwODQzNzk3ODgzOTI2OTQ1Ng.GI3wmn.HC4NuOFo6kyDvAv8eqoAJ10VHIT8uLVfEwr7ug'
+TOKEN = ''
 
 # File to store the sent titles
 SENT_TITLES_FILE = 'sent_titles.txt'
